@@ -1,0 +1,16 @@
+➥ Adicionado @[🍽] Restaurante Pipo's
+➥ Adicionado novas comidas: Sushi, Gelado, Macarons, Pastel de Nata, Red Velvet, Tiramisu e Torta de Laranja (para os restaurantes venderem)
+➥ Adicionado novo mapeamento ao Tribunal
+➥ Adicionado nova garagem pública ao Hospital
+➥ Adicionado nova hud
+➥ Adicionado novo sistema de voice (rádio irá ser alterada em breve...)
+➥ Adicionado novo painel de informações (job, dinheiro, etc..) - F10
+➥ Adicionado novo menu de Animações 
+➥ Adicionado novo mapeamento aos Bloods
+➥ Adicionado novos comandos para ver/mostrar o cartão de cidadão (/verdocumentos e /mostrardocumentos) 
+➥ Adicionado novo sistema de convites onde ganham dinheiro a convidar pessoal para o servidor (50k - /convite)
+➥ Alterações na música da Loading-Screen
+➥ Alterações de preços dos kits de reparação e dos contratos de venda de veículos nas lojinhas (+ barato)
+➥ Removido hud em cima
+➥ Removido Scoreboard
+
